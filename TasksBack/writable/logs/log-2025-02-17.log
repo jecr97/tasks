@@ -1,0 +1,421 @@
+CRITICAL - 2025-02-17 21:08:22 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:09:38 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:10:03 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:10:04 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:10:05 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:11:32 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:11:33 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:11:33 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:12:56 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:13:01 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:13:39 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:13:40 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:13:43 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks('public', 'css', 'style.css')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:13:43 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks('public', 'js', 'sweetalert', 'sweetalert2.min.js')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:13:55 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks('public', 'js', 'sweetalert', 'sweetalert2.min.js')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:13:55 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks('public', 'css', 'style.css')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:14:15 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:14:27 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:14:27 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Home.php(20): CodeIgniter\Model->__call('consultarTasks', [])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->consultarTasks()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-02-17 21:22:29 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 APPPATH\Models\taskModel.php(23): CodeIgniter\Database\BaseConnection->table(null)
+ 2 APPPATH\Controllers\Home.php(42): App\Models\taskModel->postTask([...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->postTask()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-02-17 21:23:35 --> mysqli_sql_exception: Unknown column 'Description' in 'field list' in D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Controllers\Home.php(42): App\Models\taskModel->postTask(Array)
+#6 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(942): App\Controllers\Home->postTask()
+#7 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-02-17 21:23:35 --> Unknown column 'Description' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tasks` (`Title`, `Description`, `Completed`, `Created_at`) VALUES (:Title:, :Description:, :Completed:, :Created_at:)', [...], false)
+ 2 APPPATH\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(42): App\Models\taskModel->postTask([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->postTask()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-02-17 21:23:37 --> mysqli_sql_exception: Unknown column 'Description' in 'field list' in D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Controllers\Home.php(42): App\Models\taskModel->postTask(Array)
+#6 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(942): App\Controllers\Home->postTask()
+#7 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-02-17 21:23:37 --> Unknown column 'Description' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tasks` (`Title`, `Description`, `Completed`, `Created_at`) VALUES (:Title:, :Description:, :Completed:, :Created_at:)', [...], false)
+ 2 APPPATH\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(42): App\Models\taskModel->postTask([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->postTask()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-02-17 21:24:13 --> mysqli_sql_exception: Unknown column 'Description' in 'field list' in D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Controllers\Home.php(42): App\Models\taskModel->postTask(Array)
+#6 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(942): App\Controllers\Home->postTask()
+#7 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-02-17 21:24:13 --> Unknown column 'Description' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tasks` (`Title`, `Description`, `Completed`, `Created_at`) VALUES (:Title:, :Description:, :Completed:, :Created_at:)', [...], false)
+ 2 APPPATH\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(42): App\Models\taskModel->postTask([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->postTask()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-02-17 21:24:14 --> mysqli_sql_exception: Unknown column 'Description' in 'field list' in D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Controllers\Home.php(42): App\Models\taskModel->postTask(Array)
+#6 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(942): App\Controllers\Home->postTask()
+#7 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-02-17 21:24:14 --> Unknown column 'Description' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tasks` (`Title`, `Description`, `Completed`, `Created_at`) VALUES (:Title:, :Description:, :Completed:, :Created_at:)', [...], false)
+ 2 APPPATH\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(42): App\Models\taskModel->postTask([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->postTask()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-02-17 21:24:15 --> mysqli_sql_exception: Unknown column 'Description' in 'field list' in D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Controllers\Home.php(42): App\Models\taskModel->postTask(Array)
+#6 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(942): App\Controllers\Home->postTask()
+#7 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-02-17 21:24:15 --> Unknown column 'Description' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tasks` (`Title`, `Description`, `Completed`, `Created_at`) VALUES (:Title:, :Description:, :Completed:, :Created_at:)', [...], false)
+ 2 APPPATH\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(42): App\Models\taskModel->postTask([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->postTask()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-02-17 21:24:15 --> mysqli_sql_exception: Unknown column 'Description' in 'field list' in D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Controllers\Home.php(42): App\Models\taskModel->postTask(Array)
+#6 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(942): App\Controllers\Home->postTask()
+#7 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-02-17 21:24:15 --> Unknown column 'Description' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tasks` (`Title`, `Description`, `Completed`, `Created_at`) VALUES (:Title:, :Description:, :Completed:, :Created_at:)', [...], false)
+ 2 APPPATH\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(42): App\Models\taskModel->postTask([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->postTask()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-02-17 21:24:15 --> mysqli_sql_exception: Unknown column 'Description' in 'field list' in D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Controllers\Home.php(42): App\Models\taskModel->postTask(Array)
+#6 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(942): App\Controllers\Home->postTask()
+#7 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-02-17 21:24:15 --> Unknown column 'Description' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tasks` (`Title`, `Description`, `Completed`, `Created_at`) VALUES (:Title:, :Description:, :Completed:, :Created_at:)', [...], false)
+ 2 APPPATH\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(42): App\Models\taskModel->postTask([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->postTask()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-02-17 21:24:16 --> mysqli_sql_exception: Unknown column 'Description' in 'field list' in D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Controllers\Home.php(42): App\Models\taskModel->postTask(Array)
+#6 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(942): App\Controllers\Home->postTask()
+#7 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-02-17 21:24:16 --> Unknown column 'Description' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tasks` (`Title`, `Description`, `Completed`, `Created_at`) VALUES (:Title:, :Description:, :Completed:, :Created_at:)', [...], false)
+ 2 APPPATH\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(42): App\Models\taskModel->postTask([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->postTask()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-02-17 21:24:16 --> mysqli_sql_exception: Unknown column 'Description' in 'field list' in D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Controllers\Home.php(42): App\Models\taskModel->postTask(Array)
+#6 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(942): App\Controllers\Home->postTask()
+#7 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-02-17 21:24:16 --> Unknown column 'Description' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tasks` (`Title`, `Description`, `Completed`, `Created_at`) VALUES (:Title:, :Description:, :Completed:, :Created_at:)', [...], false)
+ 2 APPPATH\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(42): App\Models\taskModel->postTask([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->postTask()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-02-17 21:26:02 --> mysqli_sql_exception: Unknown column 'Description' in 'field list' in D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Controllers\Home.php(42): App\Models\taskModel->postTask(Array)
+#6 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(942): App\Controllers\Home->postTask()
+#7 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-02-17 21:26:02 --> Unknown column 'Description' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tasks` (`Title`, `Description`, `Completed`, `Created_at`) VALUES (:Title:, :Description:, :Completed:, :Created_at:)', [...], false)
+ 2 APPPATH\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(42): App\Models\taskModel->postTask([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->postTask()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-02-17 21:26:03 --> mysqli_sql_exception: Unknown column 'Description' in 'field list' in D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ta...', 0)
+#1 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ta...')
+#2 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ta...')
+#3 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ta...', Array, false)
+#4 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\app\Controllers\Home.php(42): App\Models\taskModel->postTask(Array)
+#6 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(942): App\Controllers\Home->postTask()
+#7 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Programas Instalados\XAMPP\htdocs\2.-Tasks\TasksBack\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-02-17 21:26:03 --> Unknown column 'Description' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tasks` (`Title`, `Description`, `Completed`, `Created_at`) VALUES (:Title:, :Description:, :Completed:, :Created_at:)', [...], false)
+ 2 APPPATH\Models\taskModel.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Home.php(42): App\Models\taskModel->postTask([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->postTask()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
